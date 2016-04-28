@@ -3,6 +3,9 @@
 
 This will be a lengthy journey I'm sure.  With each update I'll list what has been fixed and also known issues going forward with patches.  Any checkboxes or radio buttons that have blacked out text will not be useable in any form and can't be clicked on.  These represent ideas we have but are not yet implemented in the actual program at this time.  They also don't represent everything we want to do for the randomizer just all ideas we have at the moment.  More will be added / implemented when we come up with them.
 
+
+4/27/2016 Version 0.15 Notes:
+
 All useable features should work as intended. Known Issues include:
 
 Random boss weaknesses hasn't been fully tested and could potentially result in the game being unbeatable but it's highly highly unlikely to do so.
