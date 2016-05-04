@@ -1,4 +1,5 @@
-# Mega Man X Randomzier Patch Notes
+# Mega Man X Randomzier
+---
 
 ## Disclaimer: 
 This is will only work on windows computers and if you are having any problem running the program, make sure your
