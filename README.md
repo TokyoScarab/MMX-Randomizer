@@ -27,7 +27,7 @@ List of changes that I can remember:
 
 * Charge Time - This will completely randomize all aspects of X's charge time.  This will include, but not limited to, the time it takes to hit full charge (yellow or pink) and how long it takes for each stage of charging to happen (lemon to blue to yellow to pink).  This will not make certain types of shots happen sooner than others.  The order is fixed in the traditional way; lemon, blue, yellow, pink.  At this time, it seems impossible / very difficult to swap the order
 
-* Puzzle Mode Fixes - Included some exceptions to what can receive weaknesses.  For the time being, hadouken is excluded from this list until I can determine it stable enough to get to add it.  Generations of Puzzle Mode should all be 100% beatable....should be.  A readme for puzzle mode will be coming soon.
+* Puzzle Mode Fixes - Included some exceptions to what can receive weaknesses.  For the time being, hadouken is excluded from this list until I can determine if it is stable enough to add in.  Generations of Puzzle Mode should all be 100% beatable....should be.  A readme for puzzle mode will be coming soon.
 
 * Movement In General - Added fixes to X's jumping momentum and both Drunk and Uniform modes should now randomize all aspects of X's movement (unless I find more values). 
 
