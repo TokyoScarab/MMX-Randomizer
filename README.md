@@ -18,27 +18,26 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 
 ### 5/4/2016 Version 0.361 Notes:
 
-Way too many changes to even really note (but I'll try). Fixed a lot of various problems and way much more in the terms of updates should be coming in the next few days. This will get you going better :D
-
-List of changes that I can remember:
-* Infinite Shots - this removes the shot limit of all weapons on screen.  Even so, there is some slight hard limiting to this.  Which honestly once you go full HAM, it's overkill / lagfest.
-
-* Starting Health Fixes - If you use a password with your game and use that password at some point to continue your playthrough, the game will now assign you the correct amount of health instead of X's default health plus Heart Tanks.  This should also make getting hadouken in this mode possible (untested).  Also, the range of random starting health has been altered form it's original (1-16) to a range that can give you more or less health that the original game.
 
 
-* Charge Time - This will completely randomize all aspects of X's charge time.  This will include, but not limited to, the time it takes to hit full charge (yellow or pink) and how long it takes for each stage of charging to happen (lemon to blue to yellow to pink).  This will not make certain types of shots happen sooner than others.  The order is fixed in the traditional way; lemon, blue, yellow, pink.  At this time, it seems impossible / very difficult to swap the order
+#### List of changes in new build:
 
-* Puzzle Mode Fixes - Included some exceptions to what can receive weaknesses.  For the time being, hadouken is excluded from this list until I can determine if it is stable enough to add in.  Generations of Puzzle Mode should all be 100% beatable....should be.  A readme for puzzle mode will be coming soon.
+    Changes to the UI. Neatened things up a bit
+    You are now able to drag and drop your rom files into the program insted of having to find them
+    Fixed a bug in Puzzle mode where you could bypass bosses using the pink charge shot bubble
+    Fixed 2 bugs in Puzzle Mode that resulted in unbeatable randomizations in this mode. Fixed (hopefully for the last time)
+    Fixed 2 problems with softlocking the game while using the arm and dash capsules while using movement modifiers.
+    Puzzle Mode now has multiple difficulties to select from. There is a tool tip to help explain it.
+    Miscellaneous Changes button is now added. There are only 3 things this randomizes at the moment but this will grow as time goes on. And there is only a chance that any of those things will happen.
+    Boss I-Frames - Each boss in the game can now have unique, randomized i-frames.
+    Boss Health - Each boss can now have their own randomized health, this also means different health on sigma stage revisit fights
+    Reset button - If you selected a radio button by accident or feel you don't want to use that option, you can click this button to reset the entire program instead of reopening it manually.
 
-* Movement In General - Added fixes to X's jumping momentum and both Drunk and Uniform modes should now randomize all aspects of X's movement (unless I find more values). 
+Known Bugs:
 
-       * Jump Height - This randomizes the max height of X's jumping.  This ranges from borderline Moon jumping to high gravity jumping (AKA baby jumps)
+    There is still a slight problem with random stages where you get credit for beating the stage you ended up playing instead of the stage you had selected from the stage select.
+    There is a potential problem with starting health. Not quite sure what it is, but it seems to be a more rare occurrence if anything. Still be careful with it and password up.
 
-       * Dash Speed - This randomizes the speed of X's dash.  This is randomized independently of Uniform or Drunk mode randomizing of all other movement speeds
-
-* Stage Design - The newest option box for settings and there will be way more to put in it as progress gets made.
-
-       * Random Stages - The stages on the Stage Select screen will be randomized but the boss portraits will stay in their original spots (this may be an additional option in the future (hopefully)
 
 If you find any glitches or something wrong, please leave a comment :D
 
