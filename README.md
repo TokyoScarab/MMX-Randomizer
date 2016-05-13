@@ -20,7 +20,7 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 
 
 
-### List of changes in new build:
+### List of changes in new build: Version 0.43 5/13/2016
 
 List of changes in new build:
 
