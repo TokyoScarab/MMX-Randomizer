@@ -16,28 +16,26 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 ## Patch Notes of Current Build
 ---
 
-### 5/4/2016 Version 0.361 Notes:
+### 5/22/2016 Version 0.361 Notes:
 
 
 
-### List of changes in new build: Version 0.43 5/13/2016
+### List of changes in new build: Version 0.48 5/22/2016
 
 List of changes in new build:
 
-* Changes to the UI.  Neatened things up a bit
-* You are now able to drag and drop your rom files into the program insted of having to find them
-* Fixed a bug in Puzzle mode where you could bypass bosses using the pink charge shot bubble
-* Fixed 2 bugs in Puzzle Mode that resulted in unbeatable randomizations in this mode.  Fixed (hopefully for the last time)
-* Fixed 2 problems with softlocking the game while using the arm and dash capsules while using movement modifiers.
-* Puzzle Mode now has multiple difficulties to select from.  There is a tool tip to help explain it.
-* Miscellaneous Changes button is now added. There are only 3 things this randomizes at the moment but this
-        will grow as time goes on. And there is only a chance that any of those things will happen.
-* Boss I-Frames - Each boss in the game can now have unique, randomized i-frames.
-* Boss Health - Each boss can now have their own randomized health, this also means different health on sigma stage revisit fights
-* Reset button - If you selected a radio button by accident or feel you don't want to use that option, you can click this button to reset the entire program instead of reopening it manually.
+Ton of stuff changed.
+
+*More fixes added than I can count!
+
+*Huge graphical overhaul of the UI
+*All aspects on X's movement finished (I think)
+^Drunk and Uniform shot movement now added. Some aspects of this might go a little crazy, but it's a bunch of fun :)
+
 
 Known Bugs:
 * There is still a slight problem with random stages where you get credit for beating the stage you ended up playing instead of the stage you had selected from the stage select.
+* 
 * There is a potential problem with starting health.  Not quite sure what it is, but it seems to be a more rare occurrence if anything.  Still be careful with it and password up.
 
 If you find any glitches or something wrong, please leave a comment :D
