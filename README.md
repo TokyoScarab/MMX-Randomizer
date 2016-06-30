@@ -16,21 +16,23 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 ## Patch Notes of Current Build
 ---
 
-### 5/22/2016 Version 0.361 Notes:
 
 
+### List of changes in new build: Version 0.50 6/30/2016
 
-### List of changes in new build: Version 0.48 5/22/2016
+ MMX Randomizer Version 0.50
 
-List of changes in new build:
+@TokyoScarab TokyoScarab released this 5 minutes ago
 
-Ton of stuff changed.
+Lots of small changes and some new features!
 
-*More fixes added than I can count!
+Random Maverick mode is here in it's beta form. This will randomize all mavs except Eagle and Mammoth, but hopefully they will cooperate in the future. Puzzle mode hasn't been tested with this yet, so expect the rare change of not being able to beat the game if you use both at the same time. Should still be a fun experience though.
 
-*Huge graphical overhaul of the UI
-*All aspects on X's movement finished (I think)
-^Drunk and Uniform shot movement now added. Some aspects of this might go a little crazy, but it's a bunch of fun :)
+Capsule animations are now turned off if you alter speed in any way. This will now prevent annoying softlocks due to animation breakage.
+
+Roms will now generate a random file name suggestion when you go to save. You can choose to keep the name or change it. The name generation will have more added to it over time and this is just the alpha version of it.
+
+Random health is still causing some problems, so tread lightly if you use it.
 
 
 Known Bugs:
