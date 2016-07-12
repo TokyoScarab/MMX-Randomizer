@@ -37,7 +37,7 @@ Random health is still causing some problems, so tread lightly if you use it.
 
 Known Bugs:
 * There is still a slight problem with random stages where you get credit for beating the stage you ended up playing instead of the stage you had selected from the stage select.
-* 
+* There is a problem using both Random Mavs and Random Health / I-Frames.  
 * There is a potential problem with starting health.  Not quite sure what it is, but it seems to be a more rare occurrence if anything.  Still be careful with it and password up.
 
 If you find any glitches or something wrong, please leave a comment :D
