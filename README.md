@@ -1,6 +1,6 @@
 # Mega Man X Randomzier
 ---
-THERE IS A HUGE UPDATE COMING TOMORROW!  STAY TUNED :D
+THERE IS A HUGE UPDATE COMING TOMORROW (06/27/2017)!  STAY TUNED :D
 Sorry for the long time between builds
 
 
