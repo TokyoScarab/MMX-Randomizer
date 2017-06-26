@@ -1,5 +1,8 @@
 # Mega Man X Randomzier
 ---
+THERE IS A HUGE UPDATE COMING TOMORROW!  STAY TUNED :D
+Sorry for the long time between builds
+
 
 ## Disclaimer: 
 This is will only work on windows computers and if you are having any problem running the program, make sure your
