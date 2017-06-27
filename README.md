@@ -1,8 +1,5 @@
 # Mega Man X Randomzier
 ---
-THERE IS A HUGE UPDATE COMING TOMORROW (06/27/2017)!  STAY TUNED :D
-Sorry for the long time between builds
-
 
 ## Disclaimer: 
 This is will only work on windows computers and if you are having any problem running the program, make sure your
@@ -21,27 +18,23 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 
 
 
-### List of changes in new build: Version 0.50 6/30/2016
+### List of changes in new build: Version 0.50 6/27/2017
 
- MMX Randomizer Version 0.50
+ MMX Randomizer Version 0.69
 
-@TokyoScarab TokyoScarab released this 5 minutes ago
-
-Lots of small changes and some new features!
-
-Random Maverick mode is here in it's beta form. This will randomize all mavs except Eagle and Mammoth, but hopefully they will cooperate in the future. Puzzle mode hasn't been tested with this yet, so expect the rare change of not being able to beat the game if you use both at the same time. Should still be a fun experience though.
-
-Capsule animations are now turned off if you alter speed in any way. This will now prevent annoying softlocks due to animation breakage.
-
-Roms will now generate a random file name suggestion when you go to save. You can choose to keep the name or change it. The name generation will have more added to it over time and this is just the alpha version of it.
-
-Random health is still causing some problems, so tread lightly if you use it.
-
+First update in a while and a big one at that!
+Notes:
+* Various bug fixes including health problems and generating multiple seeds at once
+* Randomized Boss Rooms - I am halfway done implementing this, but this should be enough to tide you all over until
+                          I finish making the rest.  There are 5 variants of every boss room in the 8 maverick stages 
+                          minus Eagle (coming soon!).  
+* Dr. Light Capsules - The Doctor Light capsules are now able to be shuffled.  They will be in their respective spots but what
+                       they give you will be completely random minus hadouken.
 
 Known Bugs:
 * There is still a slight problem with random stages where you get credit for beating the stage you ended up playing instead of the stage you had selected from the stage select.
 * There is a problem using both Random Mavs and Random Health / I-Frames.  
-* There is a potential problem with starting health.  Not quite sure what it is, but it seems to be a more rare occurrence if anything.  Still be careful with it and password up.
+
 
 If you find any glitches or something wrong, please leave a comment :D
 
