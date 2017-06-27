@@ -18,11 +18,11 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 
 
 
-### List of changes in new build: Version 0.50 6/27/2017
-
- MMX Randomizer Version 0.69
+### List of changes in new build: Version 0.69 6/27/2017
 
 First update in a while and a big one at that!
+
+
 Notes:
 * Various bug fixes including health problems and generating multiple seeds at once
 * Randomized Boss Rooms - I am halfway done implementing this, but this should be enough to tide you all over until
