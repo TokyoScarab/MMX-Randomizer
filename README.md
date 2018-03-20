@@ -15,27 +15,19 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 
 ## Patch Notes of Current Build
 ---
+### List of changes in new build: Version 0.75 3/20/2018
 
-
-
-### List of changes in new build: Version 0.69 6/27/2017
-
-First update in a while and a big one at that!
-
+Big update and a lot of things reworked!
 
 Notes:
-* Various bug fixes including health problems and generating multiple seeds at once
-* Randomized Boss Rooms - I am halfway done implementing this, but this should be enough to tide you all over until
-                          I finish making the rest.  There are 5 variants of every boss room in the 8 maverick stages 
-                          minus Eagle (coming soon!).  
-* Dr. Light Capsules - The Doctor Light capsules are now able to be shuffled.  They will be in their respective spots but what
-                       they give you will be completely random minus hadouken.
+* UI completely reworked and sorted to make room for new features as well as future features to be added
+* New Mode:  Colors -  This tab has all kinds of settings that will let you alter the colors of the entire game to various themes and patters.  All the colors altered in these modes are random and not hand picked sets of colors.  The randomizer does this on its own. This mode is still in development but will work close to 100%.  Some things aren't modified yet like effects that affect the entire screen such as explosions.  I will be adding more to this in the future.
+* New Mode:  Music - There isn't much in here to start but that will hopefully change.  This will currently allow 2 things.  The first being the randomization of the stage music to anything in the game (not counting music that doesn't loop or boss fight music as both are annoying in their own way).  The second is a Punk Rock mode that alters the playback of all music in the game.  More will be coming to this mode including MSU-1 support.
 
 Known Bugs:
 * There is still a slight problem with random stages where you get credit for beating the stage you ended up playing instead of the stage you had selected from the stage select.
 * There is a problem using both Random Mavs and Random Health / I-Frames.  
+* There is a new found issue with Zero Knockback.  If you get hit while being on a wall or very close to touching one, the game will most likely crash.
 
 
-If you find any glitches or something wrong, please leave a comment :D
-
-
+If you find any glitches or something wrong, please leave a comment or get in contact with me on Twitter. :D
