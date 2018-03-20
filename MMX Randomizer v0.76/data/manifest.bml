@@ -1,0 +1,42 @@
+unverified
+
+cartridge region=NTSC
+  rom name=mmx_msu1.sfc size=0x180000
+  map id=rom address=00-7f,80-ff:8000-ffff mask=0x8000
+   
+  msu1
+    rom name=mmx_msu1.msu size=0x0000
+    map id=io address=00-3f,80-bf:2000-2007
+    track number=1 name=mmx_msu1-1.pcm
+    track number=2 name=mmx_msu1-2.pcm
+    track number=3 name=mmx_msu1-3.pcm
+    track number=4 name=mmx_msu1-4.pcm
+    track number=5 name=mmx_msu1-5.pcm
+    track number=6 name=mmx_msu1-6.pcm
+    track number=7 name=mmx_msu1-7.pcm
+    track number=8 name=mmx_msu1-8.pcm
+    track number=9 name=mmx_msu1-9.pcm
+    track number=10 name=mmx_msu1-10.pcm
+    track number=11 name=mmx_msu1-11.pcm
+    track number=12 name=mmx_msu1-12.pcm
+    track number=13 name=mmx_msu1-13.pcm
+    track number=14 name=mmx_msu1-14.pcm
+    track number=15 name=mmx_msu1-15.pcm
+    track number=16 name=mmx_msu1-16.pcm
+    track number=17 name=mmx_msu1-17.pcm
+    track number=18 name=mmx_msu1-18.pcm
+    track number=19 name=mmx_msu1-19.pcm
+    track number=20 name=mmx_msu1-20.pcm
+    track number=21 name=mmx_msu1-21.pcm
+    track number=22 name=mmx_msu1-22.pcm
+    track number=23 name=mmx_msu1-23.pcm
+    track number=24 name=mmx_msu1-24.pcm
+    track number=25 name=mmx_msu1-25.pcm
+    track number=26 name=mmx_msu1-26.pcm
+    track number=27 name=mmx_msu1-27.pcm
+    track number=28 name=mmx_msu1-28.pcm
+    track number=29 name=mmx_msu1-29.pcm
+    track number=30 name=mmx_msu1-30.pcm
+
+information
+  title: mmx_msu1
