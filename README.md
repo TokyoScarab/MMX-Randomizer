@@ -19,12 +19,20 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 
 ### List of changes in new build: Version 0.80 3/23/2018
 
-Fixes tons of UI issues and makes a few things clearer since options are on pages and you can't see when things are deselected.
+New Things:
 
 * Save button is fully fixed now
 * Engine implementation is now added so the need to load a ROM is gone but you still must legally own a ripped ROM.
 * UI should inform you of when you select conflicting options instead of just guessing.
 * Other things?
+
+Known Bugs:
+
+* There is still a slight problem with random stages where you get credit for beating the stage you ended up playing instead of the stage you had selected from the stage select.
+* There is a problem using both Random Mavs and Random Health / I-Frames.  
+* There is a new found issue with Zero Knockback.  If you get hit while being on a wall or very close to touching one, the game will most likely crash.
+* MSU audio patching overwrites boss health / i-frame code.  Should fix that
+
 
 ### List of changes in new build: Version 0.75 3/20/2018
 
