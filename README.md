@@ -15,6 +15,17 @@ This will be a lengthy journey I'm sure.  With each update I'll list what has be
 
 ## Patch Notes of Current Build
 ---
+
+
+### List of changes in new build: Version 0.80 3/23/2018
+
+Fixes tons of UI issues and makes a few things clearer since options are on pages and you can't see when things are deselected.
+
+    *Save button is fully fixed now
+    *Engine implementation is now added so the need to load a ROM is gone but you still must legally own a ripped ROM.
+    *UI should inform you of when you select conflicting options instead of just guessing.
+    *Other things?
+
 ### List of changes in new build: Version 0.75 3/20/2018
 
 Big update and a lot of things reworked!
