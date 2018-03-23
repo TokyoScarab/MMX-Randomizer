@@ -1,4 +1,4 @@
-# Mega Man X Randomzier
+# Mega Man X Randomizer
 ---
 
 ## Disclaimer: 
