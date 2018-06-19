@@ -40,8 +40,11 @@ Known Bugs:
 
 * There is still a slight problem with random stages where you get credit for beating the stage you ended up playing instead of the stage you had selected from the stage select.
 * There is a problem using both Random Mavs and Random Health / I-Frames.  
-* There is a new found issue with Zero Knockback.  If you get hit while being on a wall or very close to touching one, the game will most likely crash.
-* MSU audio patching overwrites boss health / i-frame code.  Should fix that
+* Random Boss Health / I-Frames can cause you to damage certain bosses (Penguin, Jedi Sigma, and Chameleon Miniboss) during animations that you normally wouldn't be able to damage them in.  To avoid this, please keep a mental note of that. Here are some tips to help you avoid any soft locks (note: if you softlock, just exit the stage via the pause menu)
+    * Penguin - you should not be able to damage Penguin during his slides, if you notice you can, avoid it and kill him during jumps and other behavior
+    * Jedi Sigma - You shouldn't be able to damage him when he is on the ground and blocking with his sword.  Pretty easy to avoid, but if you kill him during it, you will softlock the game.
+    * Chameleon Miniboss - You should never be able to damage his hook hand.  Avoid hitting it at all costs!
+     
 
 
 ### List of changes in new build: Version 0.75 3/20/2018
