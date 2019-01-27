@@ -5,7 +5,7 @@
 This is will only work on windows computers and if you are having any problem running the program, make sure your
 .NetFramework is up-to-date here: https://www.microsoft.com/en-us/download/details.aspx?id=48130
 
-This program will attempt to connect to the internet upon booting.  This is perfectly normal and is used to check for updates for the program :)
+This program will attempt to connect to the internet upon booting.  This is perfectly normal and is used to check for updates to the program :)
 
 Make sure to check out the "Releases" option above for the most current build of the randomizer
 
