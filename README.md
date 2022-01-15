@@ -15,7 +15,7 @@ It allows me to create a complete, from scratch version of Mega Man X and make l
 
 Yes. If you want, you can support me though my ko-fi which I will provide a link for. Do not feel obligated to do so. Another way to really help out is if you happen to know any information about the ROM itself, feel free to get in touch with me. the big thing I'm trying to sort out atm is graphics data, compression information, audio samples, and the actual music tracks themselves. Both financial support and having information on this game will both support this project greatly!
 
-https://ko-fi.com/tokyoscarab
+https://ko-fi.com/tokyoscarab . 
 https://twitter.com/TokyoScarab
 
 
