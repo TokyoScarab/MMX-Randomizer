@@ -9,11 +9,11 @@ A disassembly is basically a reverse engineering of the ROM. That means a comple
 
 ### Q: What does a disassembly allow?
 
-#### A: It allows me to create a complete, from scratch version of Mega Man X and make literally any changes to it I want without causing problems. A good example of this is that I know there are still some problematic bugs in the most recent version of the randomizer, but some of them I've never known the exact cause because everything I've done up to this point is calculated tweaking of the game without full knowledge of what is really happening under the hood. So if something works but causes some small problem somewhere else, I have zero idea how to fix it other than looking at what my initial change is and messing with that.
+It allows me to create a complete, from scratch version of Mega Man X and make literally any changes to it I want without causing problems. A good example of this is that I know there are still some problematic bugs in the most recent version of the randomizer, but some of them I've never known the exact cause because everything I've done up to this point is calculated tweaking of the game without full knowledge of what is really happening under the hood. So if something works but causes some small problem somewhere else, I have zero idea how to fix it other than looking at what my initial change is and messing with that.
 
 ### Q: Is there anyway to support this project?
 
-#### A: Yes. If you want, you can support me though my ko-fi which I will provide a link for. Do not feel obligated to do so. Another way to really help out is if you happen to know any information about the ROM itself, feel free to get in touch with me. the big thing I'm trying to sort out atm is graphics data, compression information, audio samples, and the actual music tracks themselves. Both financial support and having information on this game will both support this project greatly!
+Yes. If you want, you can support me though my ko-fi which I will provide a link for. Do not feel obligated to do so. Another way to really help out is if you happen to know any information about the ROM itself, feel free to get in touch with me. the big thing I'm trying to sort out atm is graphics data, compression information, audio samples, and the actual music tracks themselves. Both financial support and having information on this game will both support this project greatly!
 
 https://ko-fi.com/tokyoscarab
 https://twitter.com/TokyoScarab
