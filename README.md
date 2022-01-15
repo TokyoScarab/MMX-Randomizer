@@ -5,7 +5,7 @@
 
 ### Q: What is a disassembly and why is it important?
 
-### A: ### A disassembly is basically a reverse engineering of the ROM. That means a complete understanding of every aspect of the game. This is important because up to now, any change I would want to make in the ROM had to be of an equivalent exchange. Basically, any change made to the ROM could only exactly replace whatever data you were changing. Basically meaning that you can't really add information without it causing a problem. There are some empty spots in the ROM that were never used (basically empty space). So anything custom I wrote had to fit in this limited space.
+### A: A disassembly is basically a reverse engineering of the ROM. That means a complete understanding of every aspect of the game. This is important because up to now, any change I would want to make in the ROM had to be of an equivalent exchange. Basically, any change made to the ROM could only exactly replace whatever data you were changing. Basically meaning that you can't really add information without it causing a problem. There are some empty spots in the ROM that were never used (basically empty space). So anything custom I wrote had to fit in this limited space.
 
 ### Q: What does a disassembly allow?
 
