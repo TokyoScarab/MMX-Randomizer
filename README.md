@@ -11,6 +11,10 @@ A disassembly is basically a reverse engineering of the ROM. That means a comple
 
 It allows me to create a complete, from scratch version of Mega Man X and make literally any changes to it I want without causing problems. A good example of this is that I know there are still some problematic bugs in the most recent version of the randomizer, but some of them I've never known the exact cause because everything I've done up to this point is calculated tweaking of the game without full knowledge of what is really happening under the hood. So if something works but causes some small problem somewhere else, I have zero idea how to fix it other than looking at what my initial change is and messing with that.
 
+### Q: How long will this take?
+
+I honestly have no idea. I hope to be done with it sometime this year, but that may turn out to be a pipe dream. I'll have a more realistic idea of how long once I'm deeper into this. I'm using DiztinGUIsh. It's a tool specifially designed to make disassembling SNES ROMs not only a faster process, but hopefully a less painful one.
+
 ### Q: Is there anyway to support this project?
 
 Yes. If you want, you can support me though my ko-fi which I will provide a link for. Do not feel obligated to do so. Another way to really help out is if you happen to know any information about the ROM itself, feel free to get in touch with me. the big thing I'm trying to sort out atm is graphics data, compression information, audio samples, and the actual music tracks themselves. Both financial support and having information on this game will both support this project greatly!
